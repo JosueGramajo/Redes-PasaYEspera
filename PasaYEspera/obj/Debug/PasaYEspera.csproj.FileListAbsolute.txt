@@ -1,0 +1,15 @@
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\bin\Debug\PasaYEspera.exe.config
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\bin\Debug\PasaYEspera.exe
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\bin\Debug\PasaYEspera.pdb
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\PasaYEspera.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\MainWindow.g.cs
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\App.g.cs
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\PasaYEspera_MarkupCompile.cache
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\PasaYEspera_MarkupCompile.lref
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\MainWindow.baml
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\PasaYEspera.g.resources
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\PasaYEspera.Properties.Resources.resources
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\PasaYEspera.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\PasaYEspera.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\PasaYEspera.exe
+C:\Users\josue\source\repos\PasaYEspera\PasaYEspera\obj\Debug\PasaYEspera.pdb
